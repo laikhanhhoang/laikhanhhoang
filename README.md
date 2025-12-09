@@ -1,6 +1,5 @@
 # 🧑‍💻 About me
-- I am a third-year student at the University of Information Technology. I am passionate about working in AI/ML, especially building machine learning systems that can continuously learn over time and scale efficiently to deliver optimal user experiences.
-- I am currently self-studying AI/ML, Cloud, DevOps/MLOps, and Software Development. You can follow my learning journey or explore the course materials [here](https://github.com/laikhanhhoang/my-learning-journal).
+- I’m interested in ML/AI, Cloud/DevOps/MLOps, Software Development and I will always keep improving my knowledge. You can follow my learning journey or explore the course materials [here](https://github.com/laikhanhhoang/my-learning-journal).
 - I joined MMLab in September 2025 and I am working towards completing my first research paper in the near future.
 - I am always interested in joining communities focused on AI/ML. If you think we could be a good fit, feel free to connect. I’m excited to collaborate in challenges such as hackathons and Kaggle competitions.
 
