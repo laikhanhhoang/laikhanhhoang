@@ -1,7 +1,7 @@
 # 🧑‍💻 About me:
 I'm currently a third-year student at Univeristy of Information Technology. Tôi thích làm việc trong mảng AI/ML, đặc biệt là việc triển khai các hệ thống học máy có khả năng tự học hỏi qua thời gian, và high scale tối ưu trải nghiệm người dùng. 
 
-- I am currently self-studying AI/ML, Cloud, DevOps/MLOps, and Software Development. You can follow my learning journey or explore the course materials (here)[https://github.com/laikhanhhoang/my-learning-journal].
+- I am currently self-studying AI/ML, Cloud, DevOps/MLOps, and Software Development. You can follow my learning journey or explore the course materials [here](https://github.com/laikhanhhoang/my-learning-journal).
 - I joined MMLab in September 2025 and I am working towards completing my first research paper in the near future.
 - I am always interested in joining communities focused on AI/ML. If you think we could be a good fit, feel free to connect. I’m excited to collaborate in challenges such as hackathons and Kaggle competitions.
 
