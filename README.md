@@ -1,13 +1,17 @@
-# 🧑‍💻 About me:
+# 🧑‍💻 About me
 I'm currently a third-year student at Univeristy of Information Technology. Tôi thích làm việc trong mảng AI/ML, đặc biệt là việc triển khai các hệ thống học máy có khả năng tự học hỏi qua thời gian, và high scale tối ưu trải nghiệm người dùng. 
 
 - I am currently self-studying AI/ML, Cloud, DevOps/MLOps, and Software Development. You can follow my learning journey or explore the course materials [here](https://github.com/laikhanhhoang/my-learning-journal).
 - I joined MMLab in September 2025 and I am working towards completing my first research paper in the near future.
 - I am always interested in joining communities focused on AI/ML. If you think we could be a good fit, feel free to connect. I’m excited to collaborate in challenges such as hackathons and Kaggle competitions.
 
-# 💻 Tech Stack:
+# 🗂️ Projects
+I believe a truly complete project should be end-to-end — from experimenting in notebooks to packaging an API and deploying it to the cloud. Unfortunately, I don’t have any projects to showcase yet. I’m committed to completing at least one by early January 2026.
+
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=laikhanhhoang&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=laikhanhhoang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laikhanhhoang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
