@@ -14,7 +14,4 @@ I believe a truly complete project should be end-to-end — from experimenting i
 ![](https://nirzak-streak-stats.vercel.app/?user=laikhanhhoang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laikhanhhoang&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=laikhanhhoang&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
